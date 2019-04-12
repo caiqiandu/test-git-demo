@@ -9,5 +9,7 @@ public class TestGitDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestGitDemoApplication.class, args);
     }
-
+    public void aa(){
+        System.out.println("hello word!!!!!");
+    }
 }
